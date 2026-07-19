@@ -22,7 +22,7 @@ The objective of this project is to identify fake news by analyzing the text of 
 The dataset used for this project is not included in this repository due to file size limitations.
 
 You can download the Fake News dataset from Kaggle:
-https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
+Fake News Dataset
 
 After downloading, upload the dataset (`Fake.csv` and `True.csv`) to Google Colab before running the notebook.
 
